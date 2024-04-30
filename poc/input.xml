@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trias>
+    <ServiceDelivery>
+        <ResponseTimestamp>2023-11-09T12:48:29Z</ResponseTimestamp>
+        <ProducerRef>EFAController10.4.29.38-efa01-test</ProducerRef>
+        <Status>true</Status>
+        <Language>de</Language>
+        <CalcTime>3828</CalcTime>
+        <DeliveryPayload>
+            <TripResponse>
+                <foo></foo>
+                <foo></foo>
+                <foo></foo>
+            </TripResponse>
+        </DeliveryPayload>
+    </ServiceDelivery>
+</Trias>
